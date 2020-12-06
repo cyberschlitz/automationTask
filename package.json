@@ -1,0 +1,25 @@
+{
+  "name": "automationtask",
+  "version": "1.0.0",
+  "description": "automationTask",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberschlitz/automationTask.git"
+  },
+  "author": "Marko M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberschlitz/automationTask/issues"
+  },
+  "homepage": "https://github.com/cyberschlitz/automationTask#readme",
+  "devDependencies": {
+    "cypress": "^6.0.1"
+  },
+  "dependencies": {
+    "faker": "^5.1.0"
+  }
+}

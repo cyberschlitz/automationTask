@@ -1,0 +1,23 @@
+[
+  {
+    "name":"John",
+    "lastName":"Petrovich",
+    "occupation":"plumber",
+    "age": "88",
+    "region":"Europe"
+  },
+  {
+    "name":"Mike",
+    "lastName":"Milanovich",
+    "occupation":"Carpenter",
+    "age": "75",
+    "region":"Japan"
+  },
+  {
+    "name":"Mark",
+    "lastName":"Vojvodich",
+    "occupation":"cleaner",
+    "age": "34",
+    "region":"Asia"
+  }
+]

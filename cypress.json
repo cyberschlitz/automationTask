@@ -1,0 +1,9 @@
+{
+  "screenshotsFolder" : "cypress/screenshots",
+  "baseUrl": "http://www.seleniumframework.com",
+  "integrationFolder": "cypress/tests",
+  "env": {
+    "username": "postman",
+    "password": "password"
+  }
+}
